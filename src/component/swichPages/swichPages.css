@@ -1,0 +1,17 @@
+.Switcher-wrapper {
+    width: 5%;
+    height: 5%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+}
+
+.Pages {
+    width: 80%;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+    cursor: pointer;
+}

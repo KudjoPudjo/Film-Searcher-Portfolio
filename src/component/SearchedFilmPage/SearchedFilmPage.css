@@ -1,0 +1,82 @@
+.SearchedFilmPage-wrapper {
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.SearchedFilm-wrapper {
+    width: 80%;
+}
+
+.FilmPage-poster {
+    margin: 20px auto;
+    align-items: center;
+    width: 25%;
+    box-shadow: 2px 2px 5px 5px #b0b0b0;
+}
+
+.FilmPage-poster-wrapper {
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FilmPage-title {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #d0cdcd;
+    font-size: 24px;
+}
+
+.FilmPage-releaseDate {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #d0cdcd;
+    font-size: 18px;
+}
+
+.FilmPage-overview {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #d0cdcd;
+    font-size: 14px;
+}
+
+.Slider-wrapper {
+    margin: 20px auto;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.Content-switcher {
+    margin: 20px auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Switcher {
+    background-color: #fb5656;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.active {
+    border: 1px solid blakc;
+    background-color: #f4e795;
+}
+
+.SearchFilm-content-video {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}

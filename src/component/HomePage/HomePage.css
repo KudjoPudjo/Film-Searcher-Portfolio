@@ -1,0 +1,25 @@
+.MainPic-wrapper{
+    width: 50%;   
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center; 
+    border: 3px solid #e53838;
+    box-shadow: 2px 2px 10px 10px #e53838;
+}
+.MainPic{
+    width: 45%;      
+    animation:Pic ease-in-out 1.5s infinite;
+}
+
+@keyframes Pic{
+    0%{
+        transform: scale(1);
+    } 
+    50%{
+        transform: scale(1.12);
+    }
+    100%{
+        transform: scale(1);
+    }
+}

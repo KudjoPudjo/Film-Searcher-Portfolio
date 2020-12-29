@@ -1,0 +1,12 @@
+.NotFoundPage {
+    width: 100%;
+    height: 100%;
+}
+
+.eror404 {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 100px;
+    color: #ffffff;
+}
